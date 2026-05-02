@@ -1,0 +1,16 @@
+.vscode/**
+src/**
+node_modules/**
+.gitignore
+.git/**
+webpack.config.js
+tsconfig.json
+**/*.ts
+**/*.map
+*.vsix
+prompt.md
+PROJECT_CONTEXT.md
+OFFICE_EDITOR_RULES.md
+MARKETING_PLAN.md
+testing_checklist.md
+build_and_package.ps1
