@@ -47,4 +47,6 @@ The most powerful, fast, and secure way to edit your Microsoft Office files dire
 
 ---
 
-**Developed with ❤️ by [Shubham Prajapati](https://github.com/Shubh1202) — Sr. Software Engineer**
+**Developed with ❤️ by [Shubham Prajapati](https://github.com/Shubh1202) — Sr. Software Engineer**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-prajapati-php1202/) | 🌐 [Portfolio](https://shubhamprajapati1202.vercel.app)
+
